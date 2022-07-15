@@ -1,5 +1,5 @@
 {
-  "name": "chisel-docs",
+  "name": "chisel-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chiselbeauty/docs/issues"
+    "url": "https://github.com/chiselbeauty/blog/issues"
   },
-  "homepage": "https://github.com/chiselbeauty/docs#readme",
+  "homepage": "https://github.com/chiselbeauty/blog#readme",
   "dependencies": {
     "vuepress": "^1.9.7"
   }
